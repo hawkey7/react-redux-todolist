@@ -1,3 +1,17 @@
+
+使用方式:
+
+npm install
+
+npm start
+
+
+
+
+
+
+思路:
+
 1.设计数据结构state的构成:
  {
 	todos:[{text:'',id:'',completed:''}],
